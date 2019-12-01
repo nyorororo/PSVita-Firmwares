@@ -85,7 +85,7 @@ preinst:`3722ba05e639b38399b0df3fbc95c271`
 
 full:`99d9ab3e57a677b38e42cc6409b95e3b`
 
-systendata:`80cefcda06707796a040648aea38da0f`
+systemdata:`80cefcda06707796a040648aea38da0f`
 
 preinst:`f5e6da7d1213101482300ccaeda35c3c`
 
