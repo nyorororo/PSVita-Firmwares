@@ -1,4 +1,4 @@
-# Firmwares Link(JP)
+# Firmwares Link(US)
 #### 3.73(2019_0924)
 [full](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/rel_034ab948bbf1a002e0a058c602184b32/PSP2UPDAT.PUP)
 [systemdata](http://dus01.psp2.update.playstation.net/update/psp2/image/2019_0924/sd_8b5f60b56c3da8365b973dba570c53a5/PSP2UPDAT.PUP)
