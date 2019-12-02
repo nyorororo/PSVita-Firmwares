@@ -57,7 +57,7 @@
 [preinst](http://dau01.psp2.update.playstation.net/update/psp2/image/2015_0619/pre_98b23a35eeffe3f2f036adce64ff2404/PSP2UPDAT.PUP)
 #### 3.51(2015_0512)
 [full](http://dau01.psp2.update.playstation.net/update/psp2/image/2015_0512/rel_c74d838af1fba48b97aae4cd9a5bc395/PSP2UPDAT.PUP)
-[systemdata](http://deau01.psp2.update.playstation.net/update/psp2/image/2015_0512/sd_ba8e680010739a22f11bebf014b03be9/PSP2UPDAT.PUP)
+[systemdata](http://dau01.psp2.update.playstation.net/update/psp2/image/2015_0512/sd_ba8e680010739a22f11bebf014b03be9/PSP2UPDAT.PUP)
 [preinst](http://dau01.psp2.update.playstation.net/update/psp2/image/2015_0512/pre_e604e5e4fbb3e4bd5b9894451cb89f8e/PSP2UPDAT.PUP)
 #### 3.50(2015_0319)
 [full](http://dau01.psp2.update.playstation.net/update/psp2/image/2015_0319/rel_27140a86d3934ca83ad0b8401294083c/PSP2UPDAT.PUP)
